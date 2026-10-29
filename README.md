@@ -17,4 +17,4 @@ A. de Melo, A. Bosio, R. P. Bastos, "MicroFI: TensorFlow Lite based Fault Inject
 
 ## Notes
 
-Use notebook to generate models and datasets that can be imported to the microcontroller on C. Tested on ESP32C3. TFLite/LiteRT was modified to achieve fast fault injection, you need to use the patched library available on this repo. 
+Tested on ESP32C3. TFLite/LiteRT was modified to achieve fast fault injection, you need to use the patched library available on this repo. You should be able to build and flash the project on ESP-IDF as is, and test the framework on Lenet-5, which is already set up. Additionally, you can also use the Python notebook to generate other models and datasets that can be imported to the microcontroller on C.
