@@ -1,0 +1,21 @@
+dependencies:
+  espressif/esp-nn:
+    component_hash: null
+    source:
+      path: D:\MicroFI_0_4\microfi_esp\components\espressif__esp-nn
+      type: local
+    version: 1.1.0
+  espressif/esp-tflite-micro:
+    component_hash: null
+    source:
+      path: D:\MicroFI_0_4\microfi_esp\components\espressif__esp-tflite-micro
+      type: local
+    version: 1.3.2
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.2
+manifest_hash: 222255e75e7bc98e55c56bec1fb2571168dfdab26146a9825f07cfe231e7090a
+target: esp32c3
+version: 1.0.0
