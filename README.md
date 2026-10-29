@@ -1,7 +1,9 @@
 # MicroFI 0.4
 
 Fault Injection Framework for TensorFlow Lite for Microcontrollers
+
 Leonardo Alexandrino de Melo
+
 Lyon Institute of Nanotechnology
 
 ## Abstract
@@ -14,3 +16,5 @@ fault types. The proposed framework was validated with two case studies, using a
 A. de Melo, A. Bosio, R. P. Bastos, "MicroFI: TensorFlow Lite based Fault Injection Framework for Microcontrollers," IEEE VLSI Test Symposium (VTS 2025), Tempe, United States, Apr 2025
 
 ## Notes
+
+Use notebook to generate models and datasets that can be imported to the microcontroller on C. Tested on ESP32C3. TFLite/LiteRT was modified to achieve fast fault injection, you need to use the patched library available on this repo. 
