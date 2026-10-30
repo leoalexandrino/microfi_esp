@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11022806,
+  author={de Melo, Leonardo Alexandrino and Possamai Bastos, Rodrigo and Bosio, Alberto},
+  booktitle={2025 IEEE 43rd VLSI Test Symposium (VTS)}, 
+  title={MicroFI: TensorFlow Lite based Fault Injection Framework for Microcontrollers}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Fault tolerance;Embedded systems;Microcontrollers;Fault tolerant systems;Artificial neural networks;Very large scale integration;Registers;Artificial intelligence;Transient analysis;Standards;Neural Networks;Fault Tolerance;Fault Detection;Reliability Estimation;Embedded Systems},
+  doi={10.1109/VTS65138.2025.11022806}}
