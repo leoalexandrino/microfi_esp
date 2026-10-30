@@ -13,6 +13,9 @@ embedded systems. This work presents a novel methodology for assessing the relia
 fault types. The proposed framework was validated with two case studies, using a variety of literature-endorsed models and datasets, the results provide a comparative analysis of DNN reliability versus register and memory bit flips, induced by transient faults.
 
 ## Paper:
+
+Please cite this paper if you use this project.
+
 A. de Melo, A. Bosio, R. P. Bastos, "MicroFI: TensorFlow Lite based Fault Injection Framework for Microcontrollers," IEEE VLSI Test Symposium (VTS 2025), Tempe, United States, Apr 2025
 
 ## Notes
